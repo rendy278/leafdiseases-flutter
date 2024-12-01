@@ -1,0 +1,2 @@
+const String API_KEY = 'masukin api nya disini';
+const String KEYWORD = 'Harap identifikasi tanaman ini dan potensi penyakitnya berdasarkan gambar dan detail yang diberikan dengan Bahasa Indonesia. Jika ada penyakit, berikan saran untuk pengobatan dan pencegahan. Jika gambar tidak jelas atau tidak mengandung tanaman, harap tunjukkan dan kembalikan sebagai pesan kesalahan.';
